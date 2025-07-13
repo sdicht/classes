@@ -5,8 +5,8 @@
 !docs/
 !docs/**
 
-# EXCEPT any markdown draft files
-docs/**/*-draft.md
+# Ignore any markdown files with "-draft" anywhere in their filename inside docs/
+docs/**/*-draft*.md
 
 # Also unignore the .gitignore file itself
 !.gitignore
