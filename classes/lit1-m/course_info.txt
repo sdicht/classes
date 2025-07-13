@@ -1,0 +1,12 @@
+Title: English Literature I
+Times: Mondays 07:30-11:00
+Semester: 2025.1
+Room: CAH 105
+Google Classroom: http://www.google.com
+Schedule: schedule.md
+Description: From Medieval Times up to Shakespeare.
+shared_with: lit1-n
+
+chaucer: The Canterbury Tales
+shakespeare: Othello
+adventure: The Adventure of English Documentary

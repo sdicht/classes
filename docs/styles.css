@@ -1,0 +1,332 @@
+
+        /* Literature Course Website - Enhanced Multi-Material Styling */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Lato', 'Avenir Next', 'Avenir', 'Trebuchet MS', 'Segoe UI', sans-serif;
+            line-height: 1.6;
+            color: #303030;
+            background-color: #fafafa;
+            font-size: 16px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        header {
+            background: #ffffff;
+            border-bottom: 3px solid #70b7fd;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .course-meta {
+            background: #ffffff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            border-left: 4px solid #70b7fd;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .course-meta h2 {
+            color: #303030;
+            margin-bottom: 1rem;
+            border-bottom: none;
+            font-size: 1.5rem;
+        }
+        
+        .course-meta .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .course-meta .info-item {
+            background: #fafafa;
+            padding: 1rem;
+            border-radius: 4px;
+            border: 1px solid #d6d6d6;
+        }
+        
+        .course-meta .info-item strong {
+            color: #70b7fd;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        
+        .course-meta .info-item a {
+            color: #303030;
+            text-decoration: none;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            transition: all 0.2s ease;
+            display: inline-block;
+            background: #e8f4fd;
+            border: 1px solid #70b7fd;
+        }
+        
+        .course-meta .info-item a:hover {
+            background: #70b7fd;
+            color: white;
+        }
+        
+        .course-meta .description {
+            grid-column: 1 / -1;
+            background: #fafafa;
+            padding: 1rem;
+            border-radius: 4px;
+            border: 1px solid #d6d6d6;
+            margin-top: 1rem;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            color: #303030;
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            text-align: center;
+            font-weight: 300;
+            letter-spacing: -0.02em;
+        }
+        
+        h2 {
+            font-size: 2rem;
+            border-bottom: 2px solid #70b7fd;
+            padding-bottom: 0.5rem;
+            margin-top: 2rem;
+        }
+        
+        .course-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .course-card, .class-card {
+            background: #ffffff;
+            border: 1px solid #d6d6d6;
+            border-radius: 8px;
+            padding: 2rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .course-card:hover, .class-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            border-color: #70b7fd;
+        }
+        
+        .course-card h3, .class-card h3 {
+            color: #303030;
+            margin-bottom: 1rem;
+            font-size: 1.4rem;
+        }
+        
+        .course-card a, .class-card a {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+        
+        .course-card .course-preview {
+            color: #606060;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+        
+        .materials-list {
+            list-style: none;
+            margin-top: 1rem;
+        }
+        
+        .materials-list li {
+            margin-bottom: 0.5rem;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        
+        .materials-list li:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: #70b7fd;
+            font-weight: bold;
+        }
+        
+        .materials-list a {
+            color: #303030;
+            text-decoration: none;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            transition: all 0.2s ease;
+        }
+        
+        .materials-list a:hover {
+            background-color: #70b7fd;
+            color: white;
+        }
+        
+        /* Material type grouping */
+        .materials-section {
+            margin-bottom: 1.5rem;
+        }
+        
+        .materials-section h4 {
+            color: #70b7fd;
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .breadcrumb {
+            background: #ffffff;
+            padding: 1rem 0;
+            margin-bottom: 3rem;
+            border-left: 4px solid #70b7fd;
+            padding-left: 1rem;
+        }
+        
+        .breadcrumb a {
+            color: #606060;
+            text-decoration: none;
+            margin-right: 0.5rem;
+        }
+        
+        .breadcrumb a:hover {
+            color: #70b7fd;
+        }
+        
+        .breadcrumb span {
+            color: #606060;
+            margin: 0 0.5rem;
+        }
+        
+        .handout-content, .schedule-content {
+            background: #ffffff;
+            padding: 2rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .handout-content h1, .handout-content h2, .handout-content h3 {
+            color: #303030;
+        }
+        
+        .handout-content p {
+            margin-bottom: 1rem;
+            line-height: 1.8;
+        }
+        
+        .handout-content ul, .handout-content ol {
+            margin-left: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .handout-content blockquote {
+            border-left: 4px solid #70b7fd;
+            margin: 1rem 0;
+            padding-left: 1rem;
+            font-style: italic;
+            color: #606060;
+        }
+
+        .handout-content hr {
+            margin: 2.5rem 0;          /* More space above and below */
+            border: none;
+            border-top: 2px solid #d6d6d6;
+            background: none;
+            opacity: 0.6;
+        }
+
+        .handout-content hr + * {
+            margin-top: 0;             /* Remove extra margin from element after hr */
+        }
+
+        .handout-content * + hr {
+            margin-top: 2.5rem;        /* Ensure space before hr */
+        }
+        
+        /* Enhanced code block styling */
+        .handout-content pre {
+            background: #f8f8f8;
+            border: 1px solid #e0e0e0;
+            border-radius: 6px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            overflow-x: auto;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+        
+        .handout-content code {
+            background: #f0f0f0;
+            padding: 0.2rem 0.4rem;
+            border-radius: 3px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 0.9em;
+        }
+        
+        .handout-content pre code {
+            background: none;
+            padding: 0;
+            border-radius: 0;
+        }
+        
+        /* Code highlighting for different languages */
+        .handout-content .codehilite {
+            margin: 2rem 0;
+            border-radius: 6px;
+            overflow: hidden;
+        }
+        
+        .handout-content .codehilite pre {
+            margin: 0;
+            border: none;
+            border-radius: 0;
+        }
+        
+        .last-updated {
+            text-align: center;
+            color: #606060;
+            font-size: 0.9rem;
+            margin-top: 2rem;
+            padding-top: 1rem;
+            border-top: 1px solid #d6d6d6;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .course-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .course-meta .info-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        

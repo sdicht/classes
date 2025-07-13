@@ -1,0 +1,79 @@
+## Handout: James Joyce, "Araby" and "Eveline" (from *Dubliners*)
+
+---
+
+### Point of View
+
+> In a **third-person narrative**, the narrator is someone outside the story proper who refers to all the characters in the story by name, or as "he," "she," "they." Thus Jane Austen's Emma begins: "Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her." In a **first-person narrative**, the narrator speaks as "I" and is to a greater or lesser degree a participant in the story, or else is the protagonist of the story. J. D. Salinger's The Catcher in the Rye (1951), an instance of the latter type, begins: "If you really want to hear about it, the first thing you'll really want to know is where I was born, and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap…."
+
+---
+
+### Omniscient point of view
+
+> [...] the narrator knows everything that needs to be known about the agents, actions, and events and has privileged access to the characters' thoughts, feelings, and motives; also that the narrator is free to move at will in time and place, to shift from character to character, and to report (or conceal) their speech, doings, and states of consciousness.
+
+> [The] **intrusive narrator** is one who not only reports but also comments on and evaluates the actions and motives of the characters and sometimes expresses personal views about human life. [Often the] omniscient narrator's reports and judgments are to be taken as authoritative by the reader, and so serve to establish what counts as the true facts and values within the fictional world. [...] On the other hand, the omniscient narrator may choose to be **unintrusive** (alternative terms are impersonal or objective). Flaubert in Madame Bovary (1857), for example, for the most part describes, reports, or "shows" the action in dramatic scenes without introducing his own comments or judgments. More radical instances of the unintrusive narrator, who gives up even the privilege of access to inner feelings and motives, are to be found in a number of Ernest Hemingway's short stories.
+
+---
+
+### Limited point of view
+> The narrator tells the story in the third person but stays inside the confines of what is perceived, thought, remembered, and felt by a single character (or at most by very few characters) within the story. [...] Later writers developed this technique into **stream-of-consciousness narration**, in which we are presented with outer perceptions only as they impinge on the continuous current of thought, memory, feelings, and associations which constitute a particular observer's total awareness. 
+
+> The limitation of point of view represented both by Henry James' "center of consciousness" narration and by the "stream-of-consciousness" narration sometimes used by James Joyce, Virginia Woolf, William Faulkner, and others, is often said to exemplify the "self-effacing author," or "objective narration," more effectively than does the use of an unintrusive but omniscient narrator. In the latter instance, it is said, the reader remains aware that someone, or some outside voice, is telling us about what is going on; the alternative mode, in which the point of view is limited to the consciousness of a character within the story itself, gives readers the illusion of experiencing events that evolve before their own eyes. For a revealing analysis, however, of the way even an author who restricts the narrative center of consciousness to a single character nonetheless communicates authorial judgments on people and events, and also controls the judgments evoked from the reader.
+
+---
+
+### First-person point of view
+
+> Limits the matter of the narrative to what the first-person narrator knows, experiences, infers, or finds out by talking to other characters. We distinguish between the narrative "I" who is only a fortuitous witness and auditor of the matters he relates (Marlow in *Heart of Darkness* and other works by Joseph Conrad); or who is a participant, but only a minor or peripheral one, in the story (Ishmael in Herman Melville's *Moby-Dick*, Nick in F. Scott Fitzgerald's *The Great Gatsby*); or who is himself or herself the central character in the story.
+
+---
+
+## Additional Narrative Tactics
+
+> The **fallible or unreliable narrator** is one whose perception, interpretation, and evaluation of the matters he or she narrates do not coincide with the opinions and norms implied by the author, which the author expects the alert reader to share. Henry James made repeated use of the narrator whose excessive innocence, or oversophistication, or moral obtuseness, makes him a flawed and distorting "center of consciousness" in the work; the result is an elaborate structure of ironies.
+
+---
+
+## Stream of consciousness
+
+> Describes the unbroken flow of perceptions, memories, thoughts, and feelings in the waking mind; it has since been adopted to describe a narrative method in modern fiction. Long passages of introspection, in which the narrator records in detail what passes through a character’s awareness... As it has been refined since the 1920s, “stream of consciousness” is the name applied specifically to a mode of narration that undertakes to reproduce the full spectrum and continuous flow of a character’s mental process, in which sense perceptions mingle with conscious and half-conscious thoughts, memories, expectations, feelings, and random associations. 
+
+--- 
+
+## Interior monologue
+
+> Reserved for that species of stream of consciousness which undertakes to present to the reader the course and rhythm of consciousness precisely as it occurs in a character’s mind. In interior monologue the author does not intervene, or at any rate intervenes minimally, as describer, guide, or commentator, and does not tidy the vagaries of the mental process into grammatical sentences or into a logical or coherent order. The interior monologue, in its radical form, is sometimes described as the exact presentation of the process of consciousness; but because sense perceptions, mental images, feelings, and some aspects of thought itself are non-verbal, it is clear that the author can present these elements only by converting them into some sort of verbal equivalent. 
+
+> James Joyce developed a variety of devices for stream-of-consciousness narrative in Ulysses (1922). Here is a passage of interior monologue from the “Lestrygonians” episode, in which Leopold Bloom saunters through Dublin, observing and musing: *Pineapple rock, lemon platt, butter scotch. A sugar-sticky girl shoveling scoopfuls of creams for a christian brother. Some school treat. Bad for their tummies. Lozenge and comfit manufacturer to His Majesty the King. God. Save. Our. Sitting on his throne, sucking red jujubes white.* 
+
+---
+
+### References
+M.H. Abrams and Geoffrey Harpham, *A Glossary of Literary Terms* (11th edition)
+
+---
+
+### Discussion Questions
+
+#### Find textual evidence for every argument.
+
+#### "Araby"
+
+1. The story is told by an older narrator remembering his younger self. Where do we detect the mature narrator's irony breaking through? How does this double perspective shape our reading of the boy's romantic quest?
+
+2. The boy imagines carrying a "chalice" through hostile crowds and turns Mangan's sister into an object of religious devotion, like in a hero's quest. What does this confusion of spiritual and sexual awakening reveal about Dublin's Catholic culture? Consider the dead priest's library in this context.
+
+3. Araby the bazaar promises Eastern enchantment but is a disappointment. How does Joyce construct this anticlimax? What exactly does the boy realize when he sees himself as "a creature driven and derided by vanity"?
+
+4. From the "blind" street to the dark bazaar where his eyes burn with "anguish and anger": trace the imagery of sight and blindness and light and darkness. Why is Mangan's sister always glimpsed in fragments or silhouettes?
+
+#### "Eveline"
+
+1. Joyce employs free indirect discourse to give us access to Eveline's consciousness while maintaining narrative distance. How does this technique allow us to simultaneously sympathize with and critique Eveline's paralysis? Identify moments where the narrative voice seems to merge with or separate from Eveline's thoughts. What is the effect of the shift to objective narration in the final dock scene?
+
+2. Dust pervades Eveline's world and memories. How does this connect to her mother's dying words and her promise to "keep the home together"? What kind of life do Dublin women inherit?
+
+3. Eveline constructs two opposing narratives: the familiar suffering of home versus the uncertain promise of Buenos Aires with Frank. How does Joyce complicate any simple reading of Frank as either savior or seducer? Analyze how Eveline's memories shift and contradict themselves. What role does her inability to construct a coherent narrative of her own life play in her final paralysis?
+
+4. The story moves from dusty interior to open sea, a journey Eveline cannot complete. What transforms her at the barrier? Why does she show Frank "no sign of love or farewell or recognition"?

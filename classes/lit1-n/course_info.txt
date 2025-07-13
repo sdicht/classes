@@ -1,0 +1,12 @@
+Title: English Literature I
+Times: Tuesdays 19:00-22:00
+Semester: 2025.1
+Room: CAG 103
+Google Classroom: http://www.google.com
+Schedule: schedule.md
+Description: From Medieval Times up to Shakespeare.
+shares_from: lit1-m
+
+chaucer: The Canterbury Tales
+shakespeare: Othello
+adventure: The Adventure of English Documentary
