@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# But don't ignore docs folder and its contents
+!docs/
+!docs/**
+
+# EXCEPT any markdown draft files
+docs/**/*-draft.md
+
+# Also unignore the .gitignore file itself
+!.gitignore
