@@ -248,7 +248,7 @@
         }
 
         .handout-content hr {
-            margin: 2.5rem 0;          /* More space above and below */
+            margin: 2.5rem 0;
             border: none;
             border-top: 2px solid #d6d6d6;
             background: none;
@@ -256,11 +256,11 @@
         }
 
         .handout-content hr + * {
-            margin-top: 0;             /* Remove extra margin from element after hr */
+            margin-top: 0;
         }
 
         .handout-content * + hr {
-            margin-top: 2.5rem;        /* Ensure space before hr */
+            margin-top: 2.5rem;
         }
         
         /* Enhanced code block styling */
